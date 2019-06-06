@@ -1,4 +1,4 @@
-# IBM-Customer-Analytics_Customer-Behavior
+# IBM-Customer-Analytics_Customer-Behavior (Marketing-Customer-Value-Analysis)
 Customer Analytics_Customer_Behavior
 
 The importance of customer analytics is rising: because access to customer data became easier for many businesses, 
